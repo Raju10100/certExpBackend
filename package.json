@@ -1,0 +1,25 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "create read update and delete recipes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Raju10100/certExpBackend.git"
+  },
+  "author": "“krishna” <“http://www.krishnaswebsite.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raju10100/certExpBackend/issues"
+  },
+  "homepage": "https://github.com/Raju10100/certExpBackend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.5"
+  }
+}
